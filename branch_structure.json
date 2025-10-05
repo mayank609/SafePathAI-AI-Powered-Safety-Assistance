@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/maps",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/maps": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/maps",
+    "origin"
+  ]
+}
